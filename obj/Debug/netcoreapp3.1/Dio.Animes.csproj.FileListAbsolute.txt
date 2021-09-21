@@ -1,0 +1,13 @@
+C:\Users\Dell\Dio.Animes\bin\Debug\netcoreapp3.1\Dio.Animes.exe
+C:\Users\Dell\Dio.Animes\bin\Debug\netcoreapp3.1\Dio.Animes.deps.json
+C:\Users\Dell\Dio.Animes\bin\Debug\netcoreapp3.1\Dio.Animes.runtimeconfig.json
+C:\Users\Dell\Dio.Animes\bin\Debug\netcoreapp3.1\Dio.Animes.runtimeconfig.dev.json
+C:\Users\Dell\Dio.Animes\bin\Debug\netcoreapp3.1\Dio.Animes.dll
+C:\Users\Dell\Dio.Animes\bin\Debug\netcoreapp3.1\Dio.Animes.pdb
+C:\Users\Dell\Dio.Animes\obj\Debug\netcoreapp3.1\Dio.Animes.csprojAssemblyReference.cache
+C:\Users\Dell\Dio.Animes\obj\Debug\netcoreapp3.1\Dio.Animes.AssemblyInfoInputs.cache
+C:\Users\Dell\Dio.Animes\obj\Debug\netcoreapp3.1\Dio.Animes.AssemblyInfo.cs
+C:\Users\Dell\Dio.Animes\obj\Debug\netcoreapp3.1\Dio.Animes.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Dio.Animes\obj\Debug\netcoreapp3.1\Dio.Animes.dll
+C:\Users\Dell\Dio.Animes\obj\Debug\netcoreapp3.1\Dio.Animes.pdb
+C:\Users\Dell\Dio.Animes\obj\Debug\netcoreapp3.1\Dio.Animes.genruntimeconfig.cache
